@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 ## SNS Links
   <p align="left">
-    <a href="https://twitter.com/Reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
-    <a href="https://sumanko.ml/@reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=3088D4&logo=Mastodon&logoColor=FFFFFF&label=">
-    <a href="https://www.twitch.tv/remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=9146FF&logo=Twitch&logoColor=FFFFFF&label=">
-    <a href="https://soundcloud.com/reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label=">
-    <a href="https://open.spotify.com/user/remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=">
-     <a href="https://www.last.fm/ja/user/Remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Last.fm&color=D51007&logo=Last.fm&logoColor=FFFFFF&label=">
+    <a href="https://twitter.com/Reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label="></a>
+    <a href="https://sumanko.ml/@reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=3088D4&logo=Mastodon&logoColor=FFFFFF&label="></a>
+    <a href="https://www.twitch.tv/remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitch&color=9146FF&logo=Twitch&logoColor=FFFFFF&label="></a>
+    <a href="https://soundcloud.com/reticulmz"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SoundCloud&color=FF3300&logo=SoundCloud&logoColor=FFFFFF&label="></a>
+    <a href="https://open.spotify.com/user/remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label="></a>
+     <a href="https://www.last.fm/ja/user/Remiaaaaa"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Last.fm&color=D51007&logo=Last.fm&logoColor=FFFFFF&label="></a>
     
 
 ## Langs and Tools
