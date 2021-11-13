@@ -1,4 +1,5 @@
 <h1 align="center"> Hi I'm Reticulmz 😉</h1>
+<p align="center"><img src="https://pbs.twimg.com/media/Dr4MLW9UwAA1VqO?format=jpg&name=large">
 
 
 <!--
