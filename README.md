@@ -1,5 +1,5 @@
 <h1 align="center"> Hi I'm Reticulmz 😉</h1>
-<p align="center"><img src="https://pbs.twimg.com/media/Dr4MLW9UwAA1VqO?format=jpg&name=large">
+<p align="center"><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3797f708-2e43-4b75-8b38-deef9ae9853e/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4472344d4c5739557741413156714f3f666f726d61743d6a7067266e616d653d6c61726765.jfif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211113T223735Z&X-Amz-Expires=86400&X-Amz-Signature=7ac9a24a0c613463ecbc94800069c6337a752c034a0e3534e453840f55cfe4f5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2268747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4472344d4c5739557741413156714f3f666f726d61743d6a7067266e616d653d6c61726765.jfif%22">
 
 
 <!--
